@@ -1,0 +1,55 @@
+﻿Build started 3/27/2021 2:49:21 PM.
+     1>Project "C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TRY NOT TO FALL - Make A Run For It.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(310): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(311): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(312): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(318): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(319): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(320): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(329): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(330): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(343): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(345): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(346): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(877): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(878): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(922): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(1241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2010\projects\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(1243): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.exe" /NOLOGO bass.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TRY NOT TO FALL - Make A Run For It.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.lib" /MACHINE:X86 Debug\iMain.obj
+         LINK : C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.exe not found or not built by the last incremental link; performing full link
+         TRY NOT TO FALL - Make A Run For It.vcxproj -> C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.exe;#1" /manifest "Debug\TRY NOT TO FALL - Make A Run For It.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\TRY NOT TO FALL - Make A Run For It.unsuccessfulbuild".
+         Touching "Debug\TRY NOT TO FALL - Make A Run For It.lastbuildstate".
+     1>Done Building Project "C:\Users\User\documents\visual studio 2010\Projects\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.11
